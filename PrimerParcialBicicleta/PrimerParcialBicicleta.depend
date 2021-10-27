@@ -3,3 +3,193 @@
 	<stdio.h>
 	<stdlib.h>
 
+1634760111 source:c:\users\franc\desktop\parcial subiendo\disanto.franco.lab1.1a\primerparcialbicicleta\main.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"bicicleta.h"
+	"color.h"
+	"menu.h"
+	"servicio.h"
+	"tipo.h"
+	"trabajo.h"
+	"validaciones.h"
+
+1634762988 source:c:\users\franc\desktop\parcial subiendo\disanto.franco.lab1.1a\primerparcialbicicleta\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+
+1634756706 source:c:\users\franc\desktop\parcial subiendo\disanto.franco.lab1.1a\primerparcialbicicleta\tipo.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"tipo.h"
+
+1634768309 c:\users\franc\desktop\parcial subiendo\disanto.franco.lab1.1a\primerparcialbicicleta\tipo.h
+
+1634756728 source:c:\users\franc\desktop\parcial subiendo\disanto.franco.lab1.1a\primerparcialbicicleta\servicio.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"servicio.h"
+
+1634768309 c:\users\franc\desktop\parcial subiendo\disanto.franco.lab1.1a\primerparcialbicicleta\servicio.h
+
+1634756738 source:c:\users\franc\desktop\parcial subiendo\disanto.franco.lab1.1a\primerparcialbicicleta\color.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"color.h"
+
+1634768309 c:\users\franc\desktop\parcial subiendo\disanto.franco.lab1.1a\primerparcialbicicleta\color.h
+
+1634765099 source:c:\users\franc\desktop\parcial subiendo\disanto.franco.lab1.1a\primerparcialbicicleta\bicicleta.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"bicicleta.h"
+
+1634768310 c:\users\franc\desktop\parcial subiendo\disanto.franco.lab1.1a\primerparcialbicicleta\bicicleta.h
+	"color.h"
+	"tipo.h"
+
+1634768309 c:\users\franc\desktop\parcial subiendo\disanto.franco.lab1.1a\primerparcialbicicleta\menu.h
+
+1634768309 c:\users\franc\desktop\parcial subiendo\disanto.franco.lab1.1a\primerparcialbicicleta\trabajo.h
+	"servicio.h"
+	"bicicleta.h"
+
+1634763569 source:c:\users\franc\desktop\parcial subiendo\disanto.franco.lab1.1a\primerparcialbicicleta\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"bicicleta.h"
+	"servicio.h"
+
+1634757129 source:c:\users\franc\desktop\parcial subiendo\disanto.franco.lab1.1a\primerparcialbicicleta\trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"trabajo.h"
+	"validaciones.h"
+
+1634768309 c:\users\franc\desktop\parcial subiendo\disanto.franco.lab1.1a\primerparcialbicicleta\validaciones.h
+
+1635340787 source:c:\users\franc\desktop\parcial lab\disanto.franco.lab1.1a\primerparcialbicicleta\bicicleta.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"bicicleta.h"
+	"validaciones.h"
+
+1635338362 c:\users\franc\desktop\parcial lab\disanto.franco.lab1.1a\primerparcialbicicleta\bicicleta.h
+	"color.h"
+	"tipo.h"
+	"servicio.h"
+	"cliente.h"
+
+1634768309 c:\users\franc\desktop\parcial lab\disanto.franco.lab1.1a\primerparcialbicicleta\color.h
+
+1634768309 c:\users\franc\desktop\parcial lab\disanto.franco.lab1.1a\primerparcialbicicleta\tipo.h
+
+1634756738 source:c:\users\franc\desktop\parcial lab\disanto.franco.lab1.1a\primerparcialbicicleta\color.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"color.h"
+
+1635341388 source:c:\users\franc\desktop\parcial lab\disanto.franco.lab1.1a\primerparcialbicicleta\main.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"cliente.h"
+	"bicicleta.h"
+	"color.h"
+	"menu.h"
+	"servicio.h"
+	"tipo.h"
+	"trabajo.h"
+	"validaciones.h"
+	"hardcodeo.h"
+	"informes.h"
+
+1635307066 c:\users\franc\desktop\parcial lab\disanto.franco.lab1.1a\primerparcialbicicleta\menu.h
+
+1634768309 c:\users\franc\desktop\parcial lab\disanto.franco.lab1.1a\primerparcialbicicleta\servicio.h
+
+1635337380 c:\users\franc\desktop\parcial lab\disanto.franco.lab1.1a\primerparcialbicicleta\trabajo.h
+	"servicio.h"
+	"bicicleta.h"
+
+1634768309 c:\users\franc\desktop\parcial lab\disanto.franco.lab1.1a\primerparcialbicicleta\validaciones.h
+
+1635345911 source:c:\users\franc\desktop\parcial lab\disanto.franco.lab1.1a\primerparcialbicicleta\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+
+1634756728 source:c:\users\franc\desktop\parcial lab\disanto.franco.lab1.1a\primerparcialbicicleta\servicio.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"servicio.h"
+
+1634756706 source:c:\users\franc\desktop\parcial lab\disanto.franco.lab1.1a\primerparcialbicicleta\tipo.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"tipo.h"
+
+1635337380 source:c:\users\franc\desktop\parcial lab\disanto.franco.lab1.1a\primerparcialbicicleta\trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"trabajo.h"
+	"validaciones.h"
+
+1634763569 source:c:\users\franc\desktop\parcial lab\disanto.franco.lab1.1a\primerparcialbicicleta\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"bicicleta.h"
+	"servicio.h"
+
+1635340787 c:\users\franc\desktop\parcial lab\disanto.franco.lab1.1a\primerparcialbicicleta\datawarehouse.h
+
+1635339316 source:c:\users\franc\desktop\parcial lab\disanto.franco.lab1.1a\primerparcialbicicleta\hardcodeo.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"bicicleta.h"
+	"trabajo.h"
+	"cliente.h"
+	"datawarehouse.h"
+
+1635338192 c:\users\franc\desktop\parcial lab\disanto.franco.lab1.1a\primerparcialbicicleta\hardcodeo.h
+
+1635342937 c:\users\franc\desktop\parcial lab\disanto.franco.lab1.1a\primerparcialbicicleta\informes.h
+
+1635344761 source:c:\users\franc\desktop\parcial lab\disanto.franco.lab1.1a\primerparcialbicicleta\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"bicicleta.h"
+	"color.h"
+	"menu.h"
+	"servicio.h"
+	"tipo.h"
+	"trabajo.h"
+
+1635335783 source:c:\users\franc\desktop\parcial lab\disanto.franco.lab1.1a\primerparcialbicicleta\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+
+1635335783 source:c:\users\franc\desktop\parcial lab\disanto.franco.lab1.1a\primerparcialbicicleta\fecha.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+
+1635335828 c:\users\franc\desktop\parcial lab\disanto.franco.lab1.1a\primerparcialbicicleta\cliente.h
+
